@@ -1,0 +1,13 @@
+[
+  {
+    "nome": "Nome do Usuário",
+    "email": "email@example.com",
+    "senha": "senha123",
+    "telefones": [{"numero": "123456789", "ddd": "11"}],
+    "id": "GUID/ID",
+    "data_criacao": "2023-11-30T12:00:00.000Z",
+    "data_atualizacao": "2023-11-30T12:00:00.000Z",
+    "ultimo_login": null,
+    "token": "GUID/JWT"
+  }
+]

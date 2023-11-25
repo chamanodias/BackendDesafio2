@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "nome": "Usuário 1",
+    "email": "usuario1@example.com",
+    "senha": "senha123",
+    "telefones": [
+      { "numero": "123456789", "ddd": "11" }
+    ],
+    "data_criacao": "2023-11-30T12:00:00.000Z",
+    "data_atualizacao": "2023-11-30T12:00:00.000Z",
+    "ultimo_login": null,
+    "token": "GUID/JWT"
+  },
+  {
+    "id": "2",
+    "nome": "Usuário 2",
+    "email": "usuario2@example.com",
+    "senha": "senha456",
+    "telefones": [
+      { "numero": "987654321", "ddd": "22" }
+    ],
+    "data_criacao": "2023-11-30T14:30:00.000Z",
+    "data_atualizacao": "2023-11-30T14:30:00.000Z",
+    "ultimo_login": null,
+    "token": "GUID/JWT"
+  }
+
+]
+
